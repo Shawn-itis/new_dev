@@ -1,4 +1,4 @@
 # new_dev
-Author - Shawn
+Author - Shawn ,/n
 This is my  first git repository
 
